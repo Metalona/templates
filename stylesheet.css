@@ -1,0 +1,32 @@
+.con1 {
+	background-color: green;
+	padding: 10px;
+	}
+
+.con2{
+	background-color: black;
+	padding: 10px;
+	}
+
+h2 {
+	font-size: 20px;
+	}
+
+h3{
+	font-size: 18px;
+	}
+
+p{	font-size: 16px;
+	margin: 10px;
+	padding: 10px;
+	}
+
+body{
+	color: #FFF;
+	}
+
+form{
+	padding: 20px;
+
+	}
+
